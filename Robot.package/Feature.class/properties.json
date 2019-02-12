@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Robot",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"length",
+		"width",
+		"diameterWheel",
+		"initialPosition"
+	],
+	"name" : "Feature",
+	"type" : "normal"
+}

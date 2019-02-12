@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Robot",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"board",
+		"map",
+		"state",
+		"battery",
+		"angle",
+		"position",
+		"announceur",
+		"feature"
+	],
+	"name" : "Robot",
+	"type" : "normal"
+}

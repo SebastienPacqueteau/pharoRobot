@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Robot",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rpi",
+		"i2cMotors",
+		"pins",
+		"i2cSensors",
+		"sensors"
+	],
+	"name" : "Board",
+	"type" : "normal"
+}

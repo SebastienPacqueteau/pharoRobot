@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Sensors",
+	"category" : "Robot",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Ultrasound",
+	"type" : "normal"
+}
