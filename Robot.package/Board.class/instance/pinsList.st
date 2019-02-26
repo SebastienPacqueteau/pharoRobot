@@ -1,5 +1,6 @@
 initialization
 pinsList
+	"pas marche pour l'instant"
 	"pin Motor on GPIO 7"
 	self addPin: (PotBoardIOPin id:4) key: 'pinMot'.
 	self pinMotor 

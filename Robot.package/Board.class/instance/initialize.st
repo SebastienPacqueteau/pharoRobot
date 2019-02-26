@@ -8,5 +8,5 @@ initialize
 	self sensors: Dictionary new. 
 	self sensorsList.
 	self pins: Dictionary new.
-	self pinsList.
+	"self pinsList."
 	
