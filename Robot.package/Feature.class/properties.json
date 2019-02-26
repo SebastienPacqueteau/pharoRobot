@@ -5,12 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"length",
-		"width",
-		"diameterWheel",
-		"initialPosition"
-	],
+	"instvars" : [ ],
 	"name" : "Feature",
 	"type" : "normal"
 }

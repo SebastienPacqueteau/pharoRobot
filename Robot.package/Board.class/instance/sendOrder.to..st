@@ -1,4 +1,4 @@
-initialization
+commands
 sendOrder: aString to: i2cDevice
 	|tmp | 
 	tmp := aString asByteArray.

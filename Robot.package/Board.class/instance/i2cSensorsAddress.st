@@ -1,3 +1,3 @@
-accessing
+initialization
 i2cSensorsAddress
-	^16r22
+	^16r08
