@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"value"
+		"value",
+		"reg"
 	],
 	"name" : "Sensors",
 	"type" : "normal"
